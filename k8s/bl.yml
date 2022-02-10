@@ -24,7 +24,7 @@ spec:
         color: blue
     spec:
       containers:
-      - image: docker.io/19960213/handson-ci-image:210897acd1b280ffe16d097679c7a538573547f0
+      - image: docker.io/19960213/handson-ci-image:5463702b3cfeb47fded49022c6e5dffdde87256b
         name: blue
         ports:
           - containerPort: 80
